@@ -1,0 +1,50 @@
+[
+	{
+		"id": "0",
+		"name" : “RRH”,
+		"gender" : "female",
+		"css": "background-color:#98df8a;",
+		"data": {
+			"aliases”:”RRH”,
+			"id" : 0,
+			"name" : “RRH”,
+			"gender" : "female"
+		}
+	},
+	{
+		"id": "1",
+		"name" : “Mother”,
+		"gender" : "female",
+		"css": "background-color:#bada55;",
+		"data": {
+			"aliases”:”Mother”,
+			"id" : 1,
+			"name" : “Mother”,
+			"gender" : "female"
+		}
+	},
+	{
+		"id": “2”,
+		"name" : “Grandmother”,
+		"gender" : "female",
+		"css": "background-color:#12da55;",
+		"data": {
+			"aliases”:”Grandmother”,
+			"id" : 2,
+			"name" : “Grandmother”,
+			"gender" : "female"
+		}
+	},
+	{
+		"id": “3”,
+		"name" : “Wolf”,
+		"gender" : "male",
+		"css": "background-color:#bade15;",
+		"data": {
+			"aliases”:”Wolf”,
+			"id" : 3,
+			"name" : “Wolf”,
+			"gender" : "male"
+		}
+	}
+]
